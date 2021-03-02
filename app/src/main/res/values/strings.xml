@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Parlay</string>
+    <string name="login_et_email_address">E-Mail Address</string>
+    <string name="login_et_password">Password</string>
+    <string name="login_btn_login">Login</string>
+    <string name="login_tv_need_help">Need Help?</string>
+    <string name="login_tv_first_time">First Time User?</string>
+    <string name="login_tv_register">Click Here To Register</string>
+    <string name="login_description_parlay_logo">Parlay P Logo</string>
+</resources>
