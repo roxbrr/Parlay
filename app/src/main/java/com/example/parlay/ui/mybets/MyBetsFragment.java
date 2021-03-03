@@ -19,11 +19,9 @@ public class MyBetsFragment extends Fragment
 
     private MyBetsViewModel myBetsViewModel;
 
-    public View onCreateView(@NonNull LayoutInflater inflater,
-                             ViewGroup container, Bundle savedInstanceState)
+    public View onCreateView(@NonNull LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState)
     {
-        myBetsViewModel =
-                ViewModelProviders.of(this).get(MyBetsViewModel.class);
+        myBetsViewModel = ViewModelProviders.of(this).get(MyBetsViewModel.class);
         View root = inflater.inflate(R.layout.fragment_my_bets, container, false);
         final TextView textView = root.findViewById(R.id.text_my_bets);
         myBetsViewModel.getText().observe(getViewLifecycleOwner(), new Observer<String>()

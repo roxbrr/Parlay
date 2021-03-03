@@ -15,7 +15,8 @@ public class MyBetsViewModel extends ViewModel
         mText.setValue("My Bets / Home Fragment");
     }
 
-    public LiveData<String> getText() {
+    public LiveData<String> getText()
+    {
         return mText;
     }
 }
