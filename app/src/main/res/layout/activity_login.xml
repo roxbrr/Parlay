@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/gradient"
-    tools:context=".LoginActivity">
+    tools:context=".auth.LoginActivity">
 
     <ImageView
         android:layout_width="229dp"
@@ -106,7 +106,7 @@
         android:gravity="center">
 
         <TextView
-            android:id="@+id/login_tv_first_time"
+            android:id="@+id/login_tv_need_help"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/login_tv_first_time"
@@ -114,7 +114,7 @@
             android:textSize="17sp"/>
 
         <TextView
-            android:id="@+id/login_tv_register_link"
+            android:id="@+id/login_tv_register"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="5dp"

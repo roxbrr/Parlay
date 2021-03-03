@@ -18,4 +18,15 @@
     <string name="title_watchlist">Watchlist</string>
     <string name="title_notifications">Notifications</string>
 
+    //Register Activity
+    <string name="register_tv_title_register">Register</string>
+    <string name="register_et_first_name">First Name</string>
+    <string name="register_et_last_name">Last Name</string>
+    <string name="register_et_phone_number">Phone Number</string>
+    <string name="register_et_email">E-Mail Address</string>
+    <string name="register_et_password">Password</string>
+    <string name="register_et_confirm_password">Confirm Password</string>
+    <string name="register_btn_register_user">Register New User</string>
+    <string name="register_iv_left_arrow_white">Left-facing white arrow</string>
+
 </resources>
