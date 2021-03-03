@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "50850412450",
+    "project_id": "parlay-a80ab",
+    "storage_bucket": "parlay-a80ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50850412450:android:1ada48f2399689b30264fb",
+        "android_client_info": {
+          "package_name": "com.example.parlay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50850412450-c110d0vhmu60qijcfr9rcecl3mnc4ga5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoKnI24KrcOUPBUBZrvHSh7x-4o6ZBfqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50850412450-c110d0vhmu60qijcfr9rcecl3mnc4ga5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
